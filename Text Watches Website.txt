@@ -1,0 +1,153 @@
+========== HOME ==========
+.home__social-link
+
+https://www.facebook.com/
+https://twitter.com/
+https://www.instagram.com/
+
+.home__title
+NEW WATCH <br> COLLECTIONS B720
+
+.home__description
+Latest arrival of the new imported watches of the B720 series, 
+with a modern and resistant design.
+
+========== FEATURED ==========
+.section__title
+Featured
+
+.featured__title | .featured__price
+Jazzmaster
+$1050
+
+Ingersoll
+$250
+
+Rose gold
+$890
+
+========== STORY ==========	
+.section__title
+Our Story
+
+.story__title
+Inspirational Watch of <br> this year
+
+.story__description
+The latest and modern watches of this year, is available in various 
+presentations in this store, discover them now.
+
+========== PRODUCTS ==========
+.section__title
+Products
+
+.products__title | .products__price
+Spirit rose
+$1500
+
+Khaki pilot
+$1350
+
+Jubilee black
+$870
+
+Fosil me3
+$650
+
+Duchen
+$950
+
+========== TESTIMONIAL ==========
+.testimonial__description
+They are the best watches that one acquires, also they are always with the latest 
+news and trends, with a very comfortable price and especially with the attention 
+you receive, they are always attentive to your questions.
+
+.testimonial__perfil-name
+Lee Doe
+
+Samantha Mey
+
+Raul Zaman
+
+.testimonial__date
+March 27. 2021
+
+.testimonial__perfil-detail
+Director of a company
+
+========== NEW  ==========
+.section__title
+New Arrivals
+
+.new__title | .new__price
+Longines rose
+$980
+
+Jazzmaster
+$1150
+
+Dreyfuss gold
+$750
+
+Portuguese rose
+$1590
+
+========== NEWSLETTER ==========
+.newsletter__title
+Subscribe Our <br> Newsletter
+
+.newsletter__description
+Don't miss out on your discounts. Subscribe to our email 
+newsletter to get the best offers, discounts, coupons, 
+gifts and much more.
+
+========== FOOTER ==========
+.footer__title
+Our information
+
+About Us
+
+Product
+
+Social
+
+.footer__list
+1234 - Peru
+La Libertad 43210
+123-456-789
+
+.footer__link
+Support Center
+Customer Support
+About Us
+Copy Right
+
+Road bikes
+Mountain bikes
+Electric
+Accesories
+
+.footer__social-link
+https://www.facebook.com/
+
+https://twitter.com/
+
+https://www.instagram.com/
+
+.footer__copy
+&#169; Bedimcode. All rigths reserved
+
+========== CART ==========
+.cart__title-center
+My Cart
+
+.cart__title | .cart__price
+Jazzmaster
+$1050
+
+Rose Gold
+$850
+
+Longines Rose
+$980
