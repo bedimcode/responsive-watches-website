@@ -1007,7 +1007,6 @@ body.dark-theme {
   .featured__container {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
-    align-items: flex-start;
     gap: 1.5rem;
   }
 
@@ -1094,7 +1093,7 @@ body.dark-theme {
     gap: 2.5rem;
   }
   .products__card {
-    padding: 2rem 0;
+    padding: 100rem 0;
   }
   .products__img {
     height: 155px;
