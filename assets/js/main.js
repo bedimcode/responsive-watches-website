@@ -71,7 +71,7 @@ let newSwiper = new Swiper(".new-swiper", {
 const sections = document.querySelectorAll('section[id]')
     
 const scrollActive = () =>{
-  	const scrollY = window.pageYOffset
+  	const scrollDown = window.scrollY
 
 	sections.forEach(current =>{
 		const sectionHeight = current.offsetHeight,
@@ -79,7 +79,7 @@ const scrollActive = () =>{
 			  sectionId = current.getAttribute('id'),
 			  sectionsClass = document.querySelector('.nav__menu a[href*=' + sectionId + ']')
 
-		if(scrollY > sectionTop && scrollY <= sectionTop + sectionHeight){
+		if(scrollDown > sectionTop && scrollDown <= sectionTop + sectionHeight){
 			sectionsClass.classList.add('active-link')
 		}else{
 			sectionsClass.classList.remove('active-link')
