@@ -365,6 +365,22 @@ body.dark-theme {
 .home__button {
   box-shadow: 0 12px 24px hsla(0, 0%, 10%, .2);
 }
+.instagram-icon {
+  width: 30px;
+  height: 30px;
+  
+}
+.facebook-icon {
+  width: 30px;
+  height: 30px;
+  
+}
+.twitter-icon {
+  width: 30px;
+  height: 30px;
+  
+}
+
 
 /*=============== BUTTONS ===============*/
 .button {
@@ -791,11 +807,14 @@ body.dark-theme {
 
 .footer__social {
   display: flex;
+  
   column-gap: 1rem;
 }
 
 .footer__social-link {
   font-size: 1.25rem;
+  width: 30px;
+  height: 30px;
   color: var(--text-color);
 }
 
